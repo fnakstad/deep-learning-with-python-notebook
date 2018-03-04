@@ -1,3 +1,4 @@
+datasets/*
 aclImdb/
 glove.6B/
 MANIFEST
